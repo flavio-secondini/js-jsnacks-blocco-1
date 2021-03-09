@@ -1,4 +1,4 @@
-var numeroUtente = parseInt(prompt("inserisci un numero di 4 cifre"));
+var numeroUtente = prompt("inserisci un numero di 4 cifre");
 
 console.log(numeroUtente);
 
